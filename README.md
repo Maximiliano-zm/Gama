@@ -21,21 +21,21 @@ backoffice  : es la seccion de una empresa responsable de la empresa tales como 
 
 frontoffice: es seccion de una empresa responsable de la empresa tales como : 
 
--atencion cliente
--interaccion con el cliente en redes sociales
--ventas
+- atencion cliente
+- interaccion con el cliente en redes sociales
+- ventas
 
 -------------------------------
 
 diccionario datos : 
 
-prestashop : sistema de gestion de contenidos enfocado en comercio electronico.
-zapier : herramienta que permite automatizar acciones entre diversas aplicaciones web : en este caso prestashop con el crm de zoho
-mediante un json enviado desde prestashop desde la single page rellenando un formulario de posibles 'prospecto'.
+- prestashop : sistema de gestion de contenidos enfocado en comercio electronico.
+- zapier : herramienta que permite automatizar acciones entre diversas aplicaciones web : en este caso prestashop con el crm de zoho
+- mediante un json enviado desde prestashop desde la single page rellenando un formulario de posibles 'prospecto'.
 
-prospecto : posible cliente.
-ppu : patente.
-RAC : rent a car 
+- prospecto : posible cliente.
+- ppu : patente.
+- RAC : rent a car 
 
 --------------------
  
