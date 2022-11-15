@@ -43,9 +43,9 @@
 
 ## Automatizacion
 
-    #### En los negocios existe una amplia cantidad de actividades y procesos cotidianos que deben llevarse a cabo , cuando se automatizan , se ahorra tiempo y esfuerzo.
+#### En los negocios existe una amplia cantidad de actividades y procesos cotidianos que deben llevarse a cabo , cuando se automatizan , se ahorra tiempo y esfuerzo.
 
-    - Zoho CRM le ofrece la opción de automatizar los procedimientos de flujo de trabajo y establecer respuestas, alertas y notificaciones automáticas por adelantado. Puede crear reglas de flujo de trabajo y asociarlas con alertas de flujo de trabajo, tareas y actualizaciones de campos. Además, puede establecer reglas de escalamiento de casos, además de reglas de asignación para clientes potenciales, contactos y casos generados a través de formularios web.
+- Zoho CRM le ofrece la opción de automatizar los procedimientos de flujo de trabajo y establecer respuestas, alertas y notificaciones automáticas por adelantado. Puede crear reglas de flujo de trabajo y asociarlas con alertas de flujo de trabajo, tareas y actualizaciones de campos. Además, puede establecer reglas de escalamiento de casos, además de reglas de asignación para clientes potenciales, contactos y casos generados a través de formularios web.
 
 ## Automatizacion de flujos de trabajo
 
