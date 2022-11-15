@@ -31,13 +31,13 @@
 ##### Este permite ademas con sus funciones avanzadas poder disfrutar de aumento general de la productividad comercial.
 
 
-- Zia : Es el asistente de ventas con inteligencia artificial para zoho crm . optimiza sus datos de crm a traves de la extraccion de datos y aprendizaje automatico .
+    - Zia : Es el asistente de ventas con inteligencia artificial para zoho crm . optimiza sus datos de crm a traves de la extraccion de datos y aprendizaje automatico .
 
-- Reglas de flujo de trabajo :  Un conjunto de reglas que se ejecutan cuando se cumplen determinadas condiciones.
+    - Reglas de flujo de trabajo :  Un conjunto de reglas que se ejecutan cuando se cumplen determinadas condiciones.
 
-- Blueprint : define procesos de negocio
+    - Blueprint : define procesos de negocio
 
-- Funciones y mucho mas.
+    - Funciones y mucho mas.
 
 ---
 
@@ -66,7 +66,7 @@
     - Actualizaciones de campos : este se activa cuando una regla de negocio se activa.
     
     - Webhooks : se comunica con aplicaciones de terceros mediante el envio de notificaciones web cada vez que se produce un evento en el CRM
-    
+
     - funciones en flujos de trabajo : scripts desarrollados en deluge para recibir respeusta de otras aplicaciones y actualiza los modulos de CRM cuando se cumplen criterios de   flujo de trabajo.
 
 ---
