@@ -10,13 +10,13 @@
 
   
 
-- llevar a cabo ventas.
+- Llevar a cabo ventas.
 
-- publicidad.
+- Publicidad.
 
-- analisis.
+- Analisis.
 
-- adminitracion de clientes o empleados.
+- Adminitracion de clientes o empleados.
 
   
 
@@ -26,11 +26,11 @@
 
   
 
-- correo electronico.
+- Correo electronico.
 
-- telefono.
+- Telefono.
 
-- redes sociales.
+- Redes sociales.
 
 ---
 
@@ -44,13 +44,13 @@
 
   
 
-- zia.
+- Zia.
 
-- reglas de flujo de trabajo.
+- Reglas de flujo de trabajo.
 
-- blueprint.
+- Blueprint.
 
-- funciones y mucho mas.
+- Funciones y mucho mas.
 
   
 
