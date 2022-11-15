@@ -58,10 +58,15 @@
 #### Ademas se puede asignar tareas a los usuarios automaticamente , de acuerdo a los criterios definidos en las reglas y actualizar distintos campos la automatizacion del flujo de trabajo consta de los siguientes campos:
 
     - Reglas de flujo de trabajo : conjunto de reglas que se ejecutan cuando se cumplen determinadas condiciones.
+
     - Notificaciones de correo electronico : se envian notificaciones automatizadas por correo electronico cuando se activa una regla de flujo de trabajo.
+
     - Tareas : son aquellas que se asignan cuando al usuario se le activa una regla de flujo.
+
     - Actualizaciones de campos : este se activa cuando una regla de negocio se activa.
+    
     - Webhooks : se comunica con aplicaciones de terceros mediante el envio de notificaciones web cada vez que se produce un evento en el CRM
+    
     - funciones en flujos de trabajo : scripts desarrollados en deluge para recibir respeusta de otras aplicaciones y actualiza los modulos de CRM cuando se cumplen criterios de   flujo de trabajo.
 
 ---
