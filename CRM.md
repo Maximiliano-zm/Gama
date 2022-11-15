@@ -39,21 +39,23 @@
 
 - Funciones y mucho mas.
 
+---
+
 ## Automatizacion
 
     #### En los negocios existe una amplia cantidad de actividades y procesos cotidianos que deben llevarse a cabo , cuando se automatizan , se ahorra tiempo y esfuerzo.
 
     - Zoho CRM le ofrece la opción de automatizar los procedimientos de flujo de trabajo y establecer respuestas, alertas y notificaciones automáticas por adelantado. Puede crear reglas de flujo de trabajo y asociarlas con alertas de flujo de trabajo, tareas y actualizaciones de campos. Además, puede establecer reglas de escalamiento de casos, además de reglas de asignación para clientes potenciales, contactos y casos generados a través de formularios web.
 
-## automatizacion de flujos de trabajo
+## Automatizacion de flujos de trabajo
 
-    #### Adminitrar un flujo de trabajo permite automatizar :
+#### Adminitrar un flujo de trabajo permite automatizar :
 
     - Ventas
     - Marketing
     - Asistencia
 
-    #### Ademas se puede asignar tareas a los usuarios automaticamente , de acuerdo a los criterios definidos en las reglas y actualizar distintos campos la automatizacion del flujo de trabajo consta de los siguientes campos:
+#### Ademas se puede asignar tareas a los usuarios automaticamente , de acuerdo a los criterios definidos en las reglas y actualizar distintos campos la automatizacion del flujo de trabajo consta de los siguientes campos:
 
     - Reglas de flujo de trabajo : conjunto de reglas que se ejecutan cuando se cumplen determinadas condiciones.
     - Notificaciones de correo electronico : se envian notificaciones automatizadas por correo electronico cuando se activa una regla de flujo de trabajo.
