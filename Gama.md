@@ -33,11 +33,11 @@ CRM : gestion de relaciones con los clientes (customer relationship management) 
 
 ## diccionario datos : 
 
-- prestashop : sistema de gestion de contenidos enfocado en comercio electronico.
-- zapier : herramienta que permite automatizar acciones entre diversas aplicaciones web : en este caso prestashop con el crm de zoho
-- prospecto : posible cliente.
-- ppu : patente.
-- RAC : rent a car 
+    - prestashop : sistema de gestion de contenidos enfocado en comercio electronico.
+    - zapier : herramienta que permite automatizar acciones entre diversas aplicaciones web : en este caso prestashop con el crm de zoho
+    - prospecto : posible cliente.
+    - ppu : patente.
+    - RAC : rent a car 
 
 --------------------
 

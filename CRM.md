@@ -82,7 +82,7 @@
 
     - contacts : son las personas de organizacion con las que su empresa tiene comunicaciones comerciales en busca de oportunidades comerciales.
 
-    - modulos : en zoho crm , los datos son categorizados en grupos o divisiones basados en similitud estos datos categorizados son llamados modulos , por ejemplo "leads" es un modulo que contiene :
+- modulos : en zoho crm , los datos son categorizados en grupos o divisiones basados en similitud estos datos categorizados son llamados modulos , por ejemplo "leads" es un modulo que contiene :
 
     - contacto 
 
