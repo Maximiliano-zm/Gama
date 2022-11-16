@@ -93,4 +93,22 @@
     - etc
 
 ---
-    
+## Zoho one
+
+- Zoho one : Es un sistema implementado por zoho que ofrece un sistema de distintas actividades de su empresa en una organizacion , este presta la funcion de centrar las tipicas apps empresariales como por ej :
+
+    #### aplicaciones enfocadas en : 
+
+    - ventas
+    - marketing
+    - asistencia
+    - comunicacion 
+    - colaboracion 
+    - productividad 
+    - finanzas 
+    - operaciones
+    - recursos humanos (rrhh)
+    - procesos empresariales 
+
+
+
