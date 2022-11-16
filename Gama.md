@@ -42,9 +42,10 @@ CRM : gestion de relaciones con los clientes (customer relationship management) 
 --------------------
 
 ## Perfiles profeccionales :
-- Erick merino zurita : subgerente comercial renting
-- Gustavo andres veliz : jefe de procesos y proyectos ti
-- Eduardo Andres escobar : jefe de procesos y proyectos ti
-- Bastian cortez hernandez : cordinador de transformacion digital 
-- Luisa yañez : Gerente de tecnologia e innovacion 
-- Maximiliano zurita : desarrollador en gerencia de tecnologia e innovaccion
+
+- Erick merino zurita : subgerente comercial renting.
+- Gustavo andres veliz : jefe de procesos y proyectos ti.
+- Eduardo Andres escobar : jefe de procesos y proyectos ti.
+- Bastian cortez hernandez : cordinador de transformacion digital. 
+- Luisa yañez : Gerente de tecnologia e innovacion.
+- Maximiliano zurita : desarrollador en gerencia de tecnologia e innovaccion.

@@ -30,7 +30,6 @@
 
 ##### Este permite ademas con sus funciones avanzadas poder disfrutar de aumento general de la productividad comercial.
 
-
     - Zia : Es el asistente de ventas con inteligencia artificial para zoho crm . optimiza sus datos de crm a traves de la extraccion de datos y aprendizaje automatico .
 
     - Reglas de flujo de trabajo :  Un conjunto de reglas que se ejecutan cuando se cumplen determinadas condiciones.
@@ -51,9 +50,11 @@
 
 #### Adminitrar un flujo de trabajo permite automatizar :
 
-    - Ventas
-    - Marketing
-    - Asistencia
+- Ventas
+
+- Marketing
+
+- Asistencia
 
 #### Ademas se puede asignar tareas a los usuarios automaticamente , de acuerdo a los criterios definidos en las reglas y actualizar distintos campos la automatizacion del flujo de trabajo consta de los siguientes campos:
 
@@ -64,8 +65,8 @@
     - Tareas : son aquellas que se asignan cuando al usuario se le activa una regla de flujo.
 
     - Actualizaciones de campos : este se activa cuando una regla de negocio se activa.
-    
-    - Webhooks : se comunica con aplicaciones de terceros mediante el envio de notificaciones web cada vez que se produce un evento en el CRM
+
+    - Webhooks : se comunica con aplicaciones de terceros mediante el envio de notificaciones web cada vez que se produce un evento en el CRM.
 
     - Funciones en flujos de trabajo : scripts desarrollados en deluge para recibir respeusta de otras aplicaciones y actualiza los modulos de CRM cuando se cumplen criterios de   flujo de trabajo.
 
@@ -84,8 +85,12 @@
     - modulos : en zoho crm , los datos son categorizados en grupos o divisiones basados en similitud estos datos categorizados son llamados modulos , por ejemplo "leads" es un modulo que contiene :
 
     - contacto 
+
     - accounts 
+
     - ventas 
+
     - etc
 
+---
     
