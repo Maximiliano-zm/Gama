@@ -2,7 +2,7 @@
 
 ---
 
-### Zoho Crm es una plataforma que permite administrar varias actividades comerciales ya sea :
+### Zoho Crm es una plataforma que permite administrar varias actividades comerciales ya sea:
 
 - Llevar a cabo ventas.
 
@@ -14,7 +14,7 @@
 
 ---
 
-#### Este puede recopilar informacion fundamental a partir de las interacciones con los clientes mediante varios canales de comunicacion ya sea :
+#### Este puede recopilar informacion fundamental a partir de las interacciones con los clientes mediante varios canales de comunicacion ya sea:
 
 - Correo electronico.
 
@@ -30,11 +30,11 @@
 
 #### Este permite ademas con sus funciones avanzadas poder disfrutar de aumento general de la productividad comercial.
 
-    - Zia : Es el asistente de ventas con inteligencia artificial para zoho crm . optimiza sus datos de crm a traves de la extraccion de datos y aprendizaje automatico .
+    - Zia : Es el asistente de ventas con inteligencia artificial para zoho crm . optimiza sus datos de crm atraves de la extraccion de datos y aprendizaje automatico.
 
     - Reglas de flujo de trabajo :  Un conjunto de reglas que se ejecutan cuando se cumplen determinadas condiciones.
 
-    - Blueprint : define procesos de negocio
+    - Blueprint : define procesos de negocio.
 
     - Funciones y mucho mas.
 
@@ -48,13 +48,13 @@
 
 ## Automatizacion de flujos de trabajo.
 
-#### Adminitrar un flujo de trabajo permite automatizar :
+#### Adminitrar un flujo de trabajo permite automatizar:
 
-- Ventas
+- Ventas.
 
-- Marketing
+- Marketing.
 
-- Asistencia
+- Asistencia.
 
 #### Ademas se puede asignar tareas a los usuarios automaticamente , de acuerdo a los criterios definidos en las reglas y actualizar distintos campos la automatizacion del flujo de trabajo consta de los siguientes campos:
 
@@ -74,9 +74,9 @@
 
 ## Terminologias CRM.
 
-- Existen terminos utilizados para nombrar modulos ejemplo :
+- Existen terminos utilizados para nombrar modulos ejemplo:
 
-    - Leads : son posibles contactos o ventas o oportunidades de negocio
+    - Leads : son posibles contactos o ventas o oportunidades de negocio.
 
     - Accounts : son las empresas o departamentos dentro de una empresa con lo que tiene tratos comerciales.
 
@@ -84,13 +84,13 @@
 
 - modulos : en zoho crm , los datos son categorizados en grupos o divisiones basados en similitud estos datos categorizados son llamados modulos , por ejemplo "leads" es un modulo que contiene :
 
-    - Contacto 
+    - Contacto.
 
-    - Accounts 
+    - Accounts.
 
-    - Ventas 
+    - Ventas.
 
-    - Etc
+    - Etc.
 
 ---
 ## Zoho one.
