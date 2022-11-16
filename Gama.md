@@ -1,4 +1,4 @@
-# Gama :
+# Gama : 
 
 ---
 
@@ -38,7 +38,6 @@ CRM : gestion de relaciones con los clientes (customer relationship management) 
     - prospecto : posible cliente.
     - ppu : patente.
     - RAC : rent a car 
-    
 
 ---
 

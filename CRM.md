@@ -1,4 +1,4 @@
-## Introduccion a Zoho CRM
+## Introduccion a Zoho CRM.
 
 ---
 
@@ -40,13 +40,13 @@
 
 ---
 
-## Automatizacion
+## Automatizacion.
 
 #### En los negocios existe una amplia cantidad de actividades y procesos cotidianos que deben llevarse a cabo , cuando se automatizan , se ahorra tiempo y esfuerzo.
 
 - Zoho CRM le ofrece la opción de automatizar los procedimientos de flujo de trabajo y establecer respuestas, alertas y notificaciones automáticas por adelantado. Puede crear reglas de flujo de trabajo y asociarlas con alertas de flujo de trabajo, tareas y actualizaciones de campos. Además, puede establecer reglas de escalamiento de casos, además de reglas de asignación para clientes potenciales, contactos y casos generados a través de formularios web.
 
-## Automatizacion de flujos de trabajo
+## Automatizacion de flujos de trabajo.
 
 #### Adminitrar un flujo de trabajo permite automatizar :
 
@@ -72,7 +72,7 @@
 
 ---
 
-## Terminologias CRM
+## Terminologias CRM.
 
 - Existen terminos utilizados para nombrar modulos ejemplo :
 
@@ -93,7 +93,7 @@
     - Etc
 
 ---
-## Zoho one
+## Zoho one.
 
 - Zoho one : Es un sistema implementado por zoho que ofrece un sistema de distintas actividades de su empresa en una organizacion , este presta la funcion de centrar las tipicas apps empresariales.
 
