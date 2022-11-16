@@ -73,10 +73,19 @@
 
 ## terminologias CRM
 
-- existen terminos utilizados en el crm ejemplo :
+- existen terminos utilizados para nombrar modulos ejemplo :
 
     - leads : son posibles contactos o ventas o oportunidades de negocio
 
     - Accounts : son las empresas o departamentos dentro de una empresa con lo que tiene tratos comerciales.
 
-    -contacts : son las personas de organizacion con las que su empresa tiene comunicaciones comerciales en busca de oportunidades comerciales.
+    - contacts : son las personas de organizacion con las que su empresa tiene comunicaciones comerciales en busca de oportunidades comerciales.
+
+    - modulos : en zoho crm , los datos son categorizados en grupos o divisiones basados en similitud estos datos categorizados son llamados modulos , por ejemplo "leads" es un modulo que contiene :
+
+    - contacto 
+    - accounts 
+    - ventas 
+    - etc
+
+    
