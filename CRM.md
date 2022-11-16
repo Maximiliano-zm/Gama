@@ -2,7 +2,7 @@
 
 ---
 
-##### Zoho Crm es una plataforma que permite administrar varias actividades comerciales ya sea :
+### Zoho Crm es una plataforma que permite administrar varias actividades comerciales ya sea :
 
 - Llevar a cabo ventas.
 
@@ -14,7 +14,7 @@
 
 ---
 
-##### Este puede recopilar informacion fundamental a partir de las interacciones con los clientes mediante varios canales de comunicacion ya sea :
+#### Este puede recopilar informacion fundamental a partir de las interacciones con los clientes mediante varios canales de comunicacion ya sea :
 
 - Correo electronico.
 
@@ -24,11 +24,11 @@
 
 ---
 
-##### Este permite ofrecer un ambiente exclusivo a los clientes mediante la personalizacion de la interfaz de usuario en este caso "GAMA".
+#### Este permite ofrecer un ambiente exclusivo a los clientes mediante la personalizacion de la interfaz de usuario en este caso "GAMA".
 
-##### Este aplicacion basada en la nube permite crear , actualizar y almacenar datos en un ambiente protegido , el cual es importante una interaccion con el cliente "GAMA".
+#### Esta aplicacion basada en la nube permite crear , actualizar y almacenar datos en un ambiente protegido , el cual es importante una interaccion con el cliente "GAMA".
 
-##### Este permite ademas con sus funciones avanzadas poder disfrutar de aumento general de la productividad comercial.
+#### Este permite ademas con sus funciones avanzadas poder disfrutar de aumento general de la productividad comercial.
 
     - Zia : Es el asistente de ventas con inteligencia artificial para zoho crm . optimiza sus datos de crm a traves de la extraccion de datos y aprendizaje automatico .
 
@@ -72,43 +72,43 @@
 
 ---
 
-## terminologias CRM
+## Terminologias CRM
 
-- existen terminos utilizados para nombrar modulos ejemplo :
+- Existen terminos utilizados para nombrar modulos ejemplo :
 
-    - leads : son posibles contactos o ventas o oportunidades de negocio
+    - Leads : son posibles contactos o ventas o oportunidades de negocio
 
     - Accounts : son las empresas o departamentos dentro de una empresa con lo que tiene tratos comerciales.
 
-    - contacts : son las personas de organizacion con las que su empresa tiene comunicaciones comerciales en busca de oportunidades comerciales.
+    - Contacts : son las personas de organizacion con las que su empresa tiene comunicaciones comerciales en busca de oportunidades comerciales.
 
 - modulos : en zoho crm , los datos son categorizados en grupos o divisiones basados en similitud estos datos categorizados son llamados modulos , por ejemplo "leads" es un modulo que contiene :
 
-    - contacto 
+    - Contacto 
 
-    - accounts 
+    - Accounts 
 
-    - ventas 
+    - Ventas 
 
-    - etc
+    - Etc
 
 ---
 ## Zoho one
 
-- Zoho one : Es un sistema implementado por zoho que ofrece un sistema de distintas actividades de su empresa en una organizacion , este presta la funcion de centrar las tipicas apps empresariales como por ej :
+- Zoho one : Es un sistema implementado por zoho que ofrece un sistema de distintas actividades de su empresa en una organizacion , este presta la funcion de centrar las tipicas apps empresariales.
 
     #### aplicaciones enfocadas en : 
 
-    - ventas
-    - marketing
-    - asistencia
-    - comunicacion 
-    - colaboracion 
-    - productividad 
-    - finanzas 
-    - operaciones
-    - recursos humanos (rrhh)
-    - procesos empresariales 
+    - Ventas
+    - Marketing
+    - Asistencia
+    - Comunicacion 
+    - Colaboracion 
+    - Productividad 
+    - Finanzas 
+    - Operaciones
+    - Recursos humanos (rrhh)
+    - Procesos empresariales 
 
 
 
