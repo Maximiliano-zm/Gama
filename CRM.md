@@ -67,6 +67,16 @@
     
     - Webhooks : se comunica con aplicaciones de terceros mediante el envio de notificaciones web cada vez que se produce un evento en el CRM
 
-    - funciones en flujos de trabajo : scripts desarrollados en deluge para recibir respeusta de otras aplicaciones y actualiza los modulos de CRM cuando se cumplen criterios de   flujo de trabajo.
+    - Funciones en flujos de trabajo : scripts desarrollados en deluge para recibir respeusta de otras aplicaciones y actualiza los modulos de CRM cuando se cumplen criterios de   flujo de trabajo.
 
 ---
+
+## terminologias CRM
+
+- existen terminos utilizados en el crm ejemplo :
+
+    - leads : son posibles contactos o ventas o oportunidades de negocio
+
+    - Accounts : son las empresas o departamentos dentro de una empresa con lo que tiene tratos comerciales.
+
+    -contacts : son las personas de organizacion con las que su empresa tiene comunicaciones comerciales en busca de oportunidades comerciales.
